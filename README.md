@@ -14,7 +14,7 @@ I added preconnect links to external CDNs to reduce the Time to First Byte (TTFB
 Accessibility (A11y): I used semantic HTML (<main>, <nav>, <figure>) and ARIA roles to make sure the site is fully navigable for users with screen readers.
 
 
-SEO is more than keywords: I learned that Google cares about performance and semantics as much as content. Using the right headers (<h1> vs <h2>) and alt-tags isn't just for accessibility—it's for rankings.
+SEO is more than keywords: I learned that Google cares about performance and semantics as much as content. Using the right headers  and alt-tags isn't just for accessibility—it's for rankings.
 
 The "Checkbox Hack" Revisited: I used the CSS-only hamburger menu again, but this time I focused on making it keyboard-accessible using aria-label and proper focus management.
 
