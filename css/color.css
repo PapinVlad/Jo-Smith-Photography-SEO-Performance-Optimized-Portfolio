@@ -1,0 +1,43 @@
+body { color: rgba(17,32,77,0.7); background-color: #fcfcfd; }
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #11204d; }
+a { color: #11204d; }
+a:hover { color: #6138bd; }
+/*----------------------------------------*/
+/*----- Backgrounds -----*/
+/*----------------------------------------*/
+.bg-trans { background-color: transparent !important; }
+.bg-white { background-color: #fff !important; }
+.bg-dark-grey { background-color: #e8e4f4 !important; }
+.bg-blue { background-color: #6138bd !important; }
+.bg-dark-blue { background-color: #3e3c56 !important; }
+.bg-dark { background-color: #11204d !important; }
+/*----------------------------------------*/
+/*----- Overlays -----*/
+/*----------------------------------------*/
+.dtr-overlay { background-color: rgba(0, 0, 0, .8); }
+/*----------------------------------------*/
+/*----- Text -----*/
+/*----------------------------------------*/
+/*== dark ==*/
+.color-dark { color: #11204d; }
+/*== grey ==*/
+.color-grey { color: rgba(17,32,77,0.35); }
+/*== blue ==*/
+.color-blue { color: #6138bd; }
+/*===== border =====*/
+.border-grey { border-color: rgba(17,32,77,0.15) !important; }
+.border-blue { border-color: #6138bd !important; }
+.border-dark { border-color: #3e3c56 !important; }
+/*----- Buttons -----*/
+/*----------------------------------------*/
+.dtr-btn, input[type="submit"] { background-color: #3e3c56; border-color: #3e3c56; color: #fff; }
+.dtr-btn-flat { background-color: transparent; border-color: #3e3c56; color: #3e3c56; }
+.dtr-btn i { color: inherit !important; }
+/*-- blue --*/
+.btn-blue { background-color: #6138bd; border-color: #6138bd; color: #fff; }
+.btn-flat-blue { border-color: #6138bd; color: #6138bd; }
+.btn-flat-blue:hover { background-color: #6138bd; color: #fff; }
+
+/*===== button hovers =====*/
+.dtr-btn:hover, .dtr-btn-flat:hover, #submit:hover, input[type="submit"]:hover { background-color: #11204d; border-color: #11204d; color: #fff; }
+/*----------------------------------------*/
